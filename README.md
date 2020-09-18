@@ -1,2 +1,2 @@
-# cs440
+# cpsc440
 Assignment files for software engineering
