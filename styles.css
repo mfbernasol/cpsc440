@@ -8,24 +8,31 @@ h1 {
 
 #part1 {
     text-align: left;
-    padding: 1%;
-    margin-right: 75%;
+    padding-left: 12.5%;
+    margin-right: 50%;
 }
 
 #part2 {
     text-align: left;
-    padding: 2%;
-    margin-right: 60%;
+    padding-left: 12.5%;    
+    margin-right: 50%;
 }
 
 #part3{
     text-align: left;
-    padding: 2%;
-    margin-right: 60%;
+    padding-left: 12.5%;
+    margin-right: 50%;
 }
 
 #part4{
     text-align: left;
-    padding: 2%;
-    margin-right: 60%;
+    padding-left: 12.5%;    
+    margin-right: 50%;
+}
+
+#part7 {
+    text-align: left;
+    padding-top: 5%;
+    padding-left: 12.5%;    
+    margin-right: 50%; 
 }
