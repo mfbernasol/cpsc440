@@ -36,3 +36,17 @@ h1 {
     padding-left: 12.5%;    
     margin-right: 50%; 
 }
+
+.top {
+    background-color: #3282b8;
+    color: #fff;
+}
+
+.card-img-top {
+    width: 30%;
+    padding-top: 5%;
+   
+}
+.center-card{
+    text-align: center;
+}
