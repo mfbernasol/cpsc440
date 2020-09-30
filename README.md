@@ -1,2 +1,2 @@
 # cpsc440
-Assignment files for Software Engineering course
+Landing Page and assignment files for Software Engineering course
